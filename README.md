@@ -1,64 +1,34 @@
-# Hi, I'm Kanchi Patle 👋
+# Hi, I'm Kanchi
 
-### IT Engineering Student | Aspiring Software Developer
+I'm a final-year Information Technology student from Nagpur. I like learning by trying things out and building small projects. Right now, I'm working on my programming basics and exploring software development, Python, and data analytics.
 
-I’m an IT engineering student who enjoys learning how technology works and building practical projects. I’m currently strengthening my programming and problem-solving skills while exploring **Python, Data Analytics, Artificial Intelligence & Machine Learning, and Web Development**.
+### A little about me
+- 🎓 B.Tech, Information Technology
+- 📍 Nagpur, India
+- 🌱 Currently learning Python and improving my understanding of programming and problem-solving
+- 🔎 Exploring data analytics and AI/ML to figure out where I want to focus
+- 💻 I have been practising with HTML, CSS and JavaScript projects
+- 🤝 Interested in genuine internship opportunities and beginner-friendly collaborations
 
--  Final-year B.Tech student in Information Technology
--  Currently learning: Python, Data Analytics, AI/ML, and core computer science concepts
--  Interested in: Software Development, Data Analytics, and AI-powered applications
--  Open to: Internship opportunities, collaborative projects, and learning from the developer community
--  Strength: Consistency, curiosity, and willingness to learn
+### Tools and topics I'm working with
+- **Web:** HTML, CSS, JavaScript
+- **Programming:** Python (fundamentals)
+- **CS subjects:** DBMS, OOP, Data Structures and Algorithms
+- **Tools:** Git, GitHub, VS Code, Google Colab
 
----
+### Projects
+A few things I've put together while learning:
 
-## Skills & Technologies
+| Project | What it is |
+| --- | --- |
+| [Personal Portfolio Design](https://github.com/kanchipatle/Personal-portfolio-design) | A simple personal portfolio page made with HTML and CSS. |
+| [Responsive Web Application](https://github.com/kanchipatle/Responsive-web-application) | A fictional company landing page with a responsive navigation menu and scroll effects. |
+| [Weather App](https://github.com/kanchipatle/weather-app) | A small weather page that fetches current conditions for Nagpur using OpenWeatherMap. |
+| [Stopwatch](https://github.com/kanchipatle/stop-watch-web-application) | A browser stopwatch with start, pause, reset and lap features. |
+| [Tic-Tac-Toe](https://github.com/kanchipatle/tik-tac-toe) | A two-player browser game. |
 
-**Programming & Core Concepts**
-- Python
-- Data Structures & Algorithms (learning)
-- DBMS, OOP, Computer Networks
+Some of these are practice projects, and I’m still improving them. I’m planning to add more work as I learn.
 
-**Areas of Interest**
-- Data Analytics
-- Artificial Intelligence & Machine Learning
-- Web Development
-
-**Tools**
-- Git & GitHub
-- Visual Studio Code
-- Google Colab
-- Streamlit
-
----
-
-##  Projects
-
-Here are some projects I’ve been working on:
-
-| Project | Description |
-|---|---|
-| [Portfolio Website](https://github.com/kanchipatle/portfolio-website) | Personal portfolio built with HTML, CSS, and JavaScript. |
-| [Responsive Web Application](https://github.com/kanchipatle/Responsive-web-application) | A responsive web application project. |
-| [Weather App](https://github.com/kanchipatle/weather-app) | A weather application project. |
-| [Stopwatch Web Application](https://github.com/kanchipatle/stop-watch-web-application) | A browser-based stopwatch project. |
-| [Tic Tac Toe](https://github.com/kanchipatle/tik-tac-toe) | A classic Tic Tac Toe game project. |
-
----
-
-## GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchipatle&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanchipatle&layout=compact&hide_border=true)
-
----
-
-## Connect with Me
-
-- GitHub: [@kanchipatle](https://github.com/kanchipatle)
-- LinkedIn: [Kanchi Patle](https://www.linkedin.com/in/kanchi-rajay-patle-2ba086373/)
-
----
-
-*“Learning by building, improving one project at a time.”* 
+### Find me
+- [LinkedIn](https://www.linkedin.com/in/kanchi-rajay-patle-2ba086373/)
+- [GitHub](https://github.com/kanchipatle)
