@@ -3,12 +3,12 @@
 I'm a final-year Information Technology student from Nagpur. I like learning by trying things out and building small projects. Right now, I'm working on my programming basics and exploring software development, Python, and data analytics.
 
 ### A little about me
-- 🎓 B.Tech, Information Technology
-- 📍 Nagpur, India
-- 🌱 Currently learning Python and improving my understanding of programming and problem-solving
-- 🔎 Exploring data analytics and AI/ML to figure out where I want to focus
-- 💻 I have been practising with HTML, CSS and JavaScript projects
-- 🤝 Interested in genuine internship opportunities and beginner-friendly collaborations
+-  B.Tech, Information Technology
+-  Nagpur, India
+-  Currently learning Python and improving my understanding of programming and problem-solving
+-  Exploring data analytics and AI/ML to figure out where I want to focus
+-  I have been practising with HTML, CSS and JavaScript projects
+-  Interested in genuine internship opportunities and beginner-friendly collaborations
 
 ### Tools and topics I'm working with
 - **Web:** HTML, CSS, JavaScript
