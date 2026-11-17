@@ -4,15 +4,15 @@
 
 I’m an IT engineering student who enjoys learning how technology works and building practical projects. I’m currently strengthening my programming and problem-solving skills while exploring **Python, Data Analytics, Artificial Intelligence & Machine Learning, and Web Development**.
 
-- 🎓 Final-year B.Tech student in Information Technology
-- 🌱 Currently learning: Python, Data Analytics, AI/ML, and core computer science concepts
-- 💻 Interested in: Software Development, Data Analytics, and AI-powered applications
-- 🤝 Open to: Internship opportunities, collaborative projects, and learning from the developer community
-- ⚡ Strength: Consistency, curiosity, and willingness to learn
+-  Final-year B.Tech student in Information Technology
+-  Currently learning: Python, Data Analytics, AI/ML, and core computer science concepts
+-  Interested in: Software Development, Data Analytics, and AI-powered applications
+-  Open to: Internship opportunities, collaborative projects, and learning from the developer community
+-  Strength: Consistency, curiosity, and willingness to learn
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 **Programming & Core Concepts**
 - Python
@@ -32,7 +32,7 @@ I’m an IT engineering student who enjoys learning how technology works and bui
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 Here are some projects I’ve been working on:
 
@@ -46,7 +46,7 @@ Here are some projects I’ve been working on:
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanchipatle&show_icons=true&hide_border=true)
 
@@ -54,11 +54,11 @@ Here are some projects I’ve been working on:
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - GitHub: [@kanchipatle](https://github.com/kanchipatle)
 - LinkedIn: [Kanchi Patle](https://www.linkedin.com/in/kanchi-rajay-patle-2ba086373/)
 
 ---
 
-*“Learning by building, improving one project at a time.”* 🚀
+*“Learning by building, improving one project at a time.”* 
