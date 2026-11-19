@@ -1,23 +1,29 @@
-# Hi, I'm Kanchi
+# Hi, I'm Kanchi 👋
 
-I'm a final-year Information Technology student from Nagpur. I like learning by trying things out and building small projects. Right now, I'm working on my programming basics and exploring software development, Python, and data analytics.
+I'm a final-year Information Technology student from Nagpur, India. I enjoy learning by building projects and exploring software development, Python and data analytics.
 
-### A little about me
--  B.Tech, Information Technology
--  Nagpur, India
--  Currently learning Python and improving my understanding of programming and problem-solving
--  Exploring data analytics and AI/ML to figure out where I want to focus
--  I have been practising with HTML, CSS and JavaScript projects
--  Interested in genuine internship opportunities and beginner-friendly collaborations
+### About me
+- B.Tech student in Information Technology
+- Learning Python, programming fundamentals and problem-solving
+- Exploring data analytics and AI/ML
+- Practising web development and working on portfolio projects
+- Interested in genuine internship opportunities and beginner-friendly collaborations
 
-### Tools and topics I'm working with
-- **Web:** HTML, CSS, JavaScript
+### Tech stack & tools
 - **Programming:** Python (fundamentals)
-- **CS subjects:** DBMS, OOP, Data Structures and Algorithms
+- **Web:** HTML, CSS, JavaScript
+- **Database:** SQLite
+- **Framework:** Flask
 - **Tools:** Git, GitHub, VS Code, Google Colab
+- **CS fundamentals:** DBMS, OOP, Data Structures and Algorithms
 
-### Projects
-A few things I've put together while learning:
+### Featured project
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [CareerTrack — Job & Internship Application Manager](https://github.com/kanchipatle/careertrack-job-application-manager) | A web app to organise applications, track progress, set follow-up reminders, search/filter opportunities and export records to CSV. | Python, Flask, SQLite, HTML, CSS, JavaScript |
+
+### Other projects
 
 | Project | What it is |
 | --- | --- |
@@ -27,7 +33,7 @@ A few things I've put together while learning:
 | [Stopwatch](https://github.com/kanchipatle/stop-watch-web-application) | A browser stopwatch with start, pause, reset and lap features. |
 | [Tic-Tac-Toe](https://github.com/kanchipatle/tik-tac-toe) | A two-player browser game. |
 
-Some of these are practice projects, and I’m still improving them. I’m planning to add more work as I learn.
+I'm continuously learning and improving these projects as I gain more experience.
 
 ### Find me
 - [LinkedIn](https://www.linkedin.com/in/kanchi-rajay-patle-2ba086373/)
